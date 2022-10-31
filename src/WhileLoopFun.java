@@ -33,7 +33,13 @@ public class WhileLoopFun {
          */
         public void printDigits ( int number)
         {
-            while(number % 10 = 0)
+            int onesDigit = number % 10;
+            int tenDigit = number % 10;
+
+            while(number % 10 != 0)
+            {
+
+            }
            int oneDigit = number % 100
         }
 
